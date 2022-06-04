@@ -3,7 +3,6 @@
 
 int main(int argc, char *argv[])
 {
-	// Just do some usefules code...
 
 	if(argc < 2)
 	{ printf("\nType a message...\n"); 
